@@ -1,6 +1,6 @@
 # physarum_ecology
 Code to accompany "Complex population dynamics in a spatial microbial ecosystem with Physarum polycephalum"
-########
+
 These two folder have the scripts for generating the 5 class semantic segmentations mentioned in the paper as well as the analyeses we performed on the segmentations.
 
 In the analysis scripts folder scripts were meant to be run in a particular order 1.Full scanner to individual plates 2.Invidual plates to timeseries with cline of interactions 3.phase plot generate
